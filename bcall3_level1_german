@@ -1,0 +1,4 @@
+TYPE = bCALL3; 
+SPAN = LEVEL1:*1-64; 
+LINGUAL = #ChessinGerman;
+URL = https://user-images.githubusercontent.com/140483415/256861970-99ed6b32-98fe-442b-ba32-8086517dfd1c.jpg
